@@ -1,0 +1,35 @@
+@charset "UTF-8";
+*{margin: 0px; padding: 0px; box-sizing: border-box;}
+#text_list{
+	display: flex;
+/* 	padding: 20px; */
+	text-align: left;
+	justify-content: space-around;
+	width: 100%;
+	padding: 1rem;
+}
+
+
+
+.text_box li{
+	list-style-type: none;
+	padding: 0 auto; 
+	margin: 20px;
+	width: 100%;
+}
+.a_qa{
+	text-decoration: none;
+}
+.btn_images {
+	list-style-type: none;
+	margin-top: 1rem;
+	margin-left: 0.5rem;
+}
+.btn_images a {
+    margin-right: 10px; 
+}
+
+.btn_1{
+	width: 30%;
+	
+}

@@ -115,6 +115,9 @@ li a:hover {text-decoration: underline;}
 	.searchbar1, .res1{
 		display: none;
 	}
+	.box_2{
+		width: 33.3%;
+	}
 	.b1{
 		display: flex;
 	}
@@ -158,44 +161,8 @@ li a:hover {text-decoration: underline;}
 }
 
 
-.article_page{
-	width: 100%;
-}
 
 
-.product-list{
-	display: flex;
-	width: 100%;
-}
-
-.product_main{
-	width: 100%;
-	
-}
-.box{
-	display: flex;
-	width:100%;
-	
-}
-.box_2{
-	display:flex;
-	width: 25%;
-	border: 1px solid gray;
-	border-collapse: collapse; 
-	
-	
-}
-#text_list{
-	display: flex;
-}
-
-
-.text_box li{
-	list-style-type: none;
-	padding: 0 1.5rem; 
-	margin: 10px;
-	
-}
 
 
 
