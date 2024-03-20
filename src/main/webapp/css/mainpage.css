@@ -24,6 +24,23 @@
 	border: 1px solid gray;
 	border-collapse: collapse; 
 }
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    .box_2 {
+        width: 33%; /* 화면이 768px 이하로 줄어들면 이미지를 2개로 배열 */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .box_2 {
+        width: 100%; /* 화면이 480px 이하로 줄어들면 이미지를 한 줄에 하나씩 배열 */
+    }
+}
+
 .area{
 	padding: 10px;
 	margin: 10px;
@@ -62,6 +79,9 @@
 	
 }
 
+.area{
+	margin: 1rem;
+}
 #text_list{
 	display: flex;
 /* 	padding: 20px; */
@@ -69,6 +89,7 @@
 	justify-content: space-around;
 	width: 100%;
 	padding: 1rem;
+	margin-top: 1rem;
 }
 
 
