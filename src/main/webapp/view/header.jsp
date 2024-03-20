@@ -15,7 +15,7 @@
 	<header id="header">
 		<div class="wrapper">
 			<p class="title">
-				<a href="">I.C.T</a>
+				<a href="mainpage.jsp">I.C.T</a>
 			</p>
 			<ul class="category">
 				<li><a href="">Ballcap</a></li>
@@ -36,7 +36,7 @@
 				<a href="" class="b1 a1"><i class="fa-solid fa-magnifying-glass"></i></a>
 				<a href="" class="b2 a1"><i class="fa-brands fa-opencart"></i></a>
 <!-- 				<i class="fa-solid fa-cart-shopping"></i> -->
-				<a href="" class="b3 a1"><i class="fa-regular fa-user"></i></a>
+				<a href="login_Form.jsp" class="b3 a1"><i class="fa-regular fa-user"></i></a>
 			</form>	
 		</div>	
 	</header>

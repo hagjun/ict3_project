@@ -16,6 +16,9 @@
 .box{
 	display: flex;
 	width:100%;
+	height: auto;
+	min-height: 100%;
+	padding-bottom: 250px;
 	
 }
 .box_2{
@@ -23,6 +26,7 @@
 	width: 25%;
 	border: 1px solid gray;
 	border-collapse: collapse; 
+	
 }
 
 
@@ -41,78 +45,4 @@
     }
 }
 
-.area{
-	padding: 10px;
-	margin: 10px;
-}
-#text_list{
-	display: flex;
-/* 	padding: 20px; */
-	text-align: left;
-	justify-content: space-around;
-	width: 100%;
-	padding: 1rem;
-}
 
-
-
-.text_box li{
-	list-style-type: none;
-	padding: 0 auto; 
-	margin: 20px;
-	width: 100%;
-}
-.a_qa{
-	text-decoration: none;
-}
-.btn_images {
-	list-style-type: none;
-	margin-top: 1rem;
-	margin-left: 0.5rem;
-}
-.btn_images a {
-       margin-right: 10px; 
-}
-
-.btn_1{
-	width: 30%;
-	
-}
-
-.area{
-	margin: 1rem;
-}
-#text_list{
-	display: flex;
-/* 	padding: 20px; */
-	text-align: left;
-	justify-content: space-around;
-	width: 100%;
-	padding: 1rem;
-	margin-top: 1rem;
-}
-
-
-
-.text_box li{
-	list-style-type: none;
-	padding: 0 auto; 
-	margin: 20px;
-	width: 100%;
-}
-.a_qa{
-	text-decoration: none;
-}
-.btn_images {
-	list-style-type: none;
-	margin-top: 1rem;
-	margin-left: 0.5rem;
-}
-.btn_images a {
-    margin-right: 10px; 
-}
-
-.btn_1{
-	width: 30%;
-	
-}

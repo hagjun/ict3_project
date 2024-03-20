@@ -20,7 +20,7 @@
 			<div class="product_main">
 				<img alt="" src="../image/s2.png" class="img_main" width="100%" style="max-width: 100%;" >
 			</div> 
-			<div class="item_1" style="text-align: center; margin: 10px; padding: 10px;"><h2><i>Popular Product</i></h2></div>
+			<div class="item_1" style="text-align: center; margin: 20px; padding: 30px;"><h2><i>Popular Product</i></h2></div>
 			<div class="box">
 				<img class="box_2" src="../image/cap4-1.jpg" >
 				<img class="box_2" src="../image/cap4-1.jpg" >

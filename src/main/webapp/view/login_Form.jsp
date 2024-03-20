@@ -6,8 +6,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Insert title here</title>
+<script src="../js/header.js" defer></script>
 <%@ include file="header.jsp" %>
+
+<link rel="stylesheet" href="../css/header.css">
 <link rel="stylesheet" href="../css/login_Form.css">
+<link rel="stylesheet" href="../css/footer.css">
 
 
 <style type="text/css">
@@ -26,14 +30,14 @@
 			</label>
 			<div class="text_chk">
 				<div class="ip_chk">
-					<a href="#">Find User</a>
+					<a href="find.jsp">Find User</a>
 				</div>
 			</div>
 				<input type="submit" value="Login"> 
 				<input type="submit" value="Sign-up">
 		</form>
-		</div>
+	</div>
+	<%@ include file="footer.jsp" %>	
 		
-		<%@ include file="footer.jsp" %>
 </body>
 </html>

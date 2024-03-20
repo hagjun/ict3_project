@@ -2,28 +2,28 @@
 *{margin: 0px; padding: 0px; box-sizing: border-box;}
 #text_list{
 	display: flex;
-	position: fixed;
 	bottom: 0;
-	left: 0;
 	padding: 10px;
-/* 	padding: 20px; */
+	height:246.67px;
+	position:relative;
+	transform : translateY(-30%);
 	text-align: left;
 	justify-content: space-around;
 	width: 100%;
-	border: 1px solid gray;
     border-top: 1px solid gray;
     
 }
 
 /* 미디어 쿼리 */
-@media screen and (max-width: 450px) {
+/* @media screen and (max-width: 450px) {
     #text_list {
-        padding: 10px; /* 화면 크기가 작아질 때 여백을 줄입니다. */
+        padding: 10px; 화면 크기가 작아질 때 여백을 줄입니다.
         size: 1rm;
     }
-}
+} */
 .text_box{
 	display: flex;
+	padding: 1rem;
 }
 .text_box ul {
     list-style: none;
@@ -37,19 +37,19 @@
 	padding: 0 auto; 
 	margin: 20px;
 	width: 100%;
-	
-	
 }
 
-
-.a_qa .a_bp{
+.text_box a{
 	text-decoration: none;
 	color: black;
-	
 }
+
+
+
 .btn_images {
 	display: flex;
 	list-style-type: none;
+	padding: 1rem;
 	margin-top: 1rem;
 	margin-left: 0.5rem;
 }
