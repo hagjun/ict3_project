@@ -11,7 +11,7 @@
 
 <link rel="stylesheet" href="../css/header.css">
 <link rel="stylesheet" href="../css/login_Form.css">
-<link rel="stylesheet" href="../css/footer.css">
+<!-- <link rel="stylesheet" href="../css/footer.css"> -->
 
 
 <style type="text/css">
@@ -37,7 +37,7 @@
 				<input type="submit" value="Sign-up">
 		</form>
 	</div>
-	<%@ include file="footer.jsp" %>	
+	 <%@ include file="footer.jsp" %> 	
 		
 </body>
 </html>

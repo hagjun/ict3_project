@@ -15,21 +15,21 @@ body {
 }
 
 .find-container{
-	max-width: 400px;
+	max-width: 500px;
 	margin: 0 auto;
 	padding: 20px;
-	border-radius: 5px;
+	border-radius: 10px;
 	height: auto;
 	min-height: 100%;
 	padding-bottom: 250px;
 }
 
+
 .find-container h2{
 	text-align: center;
 }
 
-.find-container input[type="text"], 
-.find-container[type="submit"]{
+.find-container input[type="text"], .find-container input[type="submit"]{
 	width: 100%;
 	padding: 10px;
 	margin: 10px 0;
@@ -41,7 +41,10 @@ body {
 	background-color: black;
 	color: white;
 	cursor: pointer;
+	width: 100%;
 }
 .find-container input[type="submit"]:hover{
 	background-color: gray;
 }
+
+

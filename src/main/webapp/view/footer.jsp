@@ -27,7 +27,8 @@
 		</div>
 		<div class="text_box">
 			<ul >
-				<li><a href="#" class="a_qa">Q/A</a></li>
+				<li><a href="#" class="a_qa">Q&A</a></li>
+				<li><a href="#" class="a_qa">FAQ</a></li>
 				<li><a href="#" class="a_bp">불편사항</a></li> 
 				<li>AGREEMENT</li> 
 				<li>PRIVACY POLICY</li> 
